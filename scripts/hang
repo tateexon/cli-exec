@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+echo "Line 1"
+>&2 echo "Error Line 1"
+sleep 30
